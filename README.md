@@ -133,11 +133,11 @@ interested in reproducing these results please submit an issue.
 If you use this work, please cite:
 
 ```text
-@misc{advisor,
-  author = {{Luca Weihs*} and {Unnat Jain*} and Jordi Salvador and Svetlana Lazebnik and Aniruddha Kembhavi and Alexander G Schwing},
-  title = {Bridging the Imitation Gap by Adaptive Insubordination},
-  year = {2020},
-  journal = {arXiv preprint arXiv:2007.12173},
+@inproceedings{advisor,
+  title={Bridging the Imitation Gap by Adaptive Insubordination},
+  author={Weihs, Luca and Jain, Unnat and Liu, Iou-Jen and Salvador, Jordi and Lazebnik, Svetlana and Kembhavi, Aniruddha and Schwing, Alexander},
+  booktitle={NeurIPS},
+  year={2021},
+  note = {the first two authors contributed equally},
 }
-
 ```
