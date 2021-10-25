@@ -1,0 +1,12 @@
+allenact>=0.4.0
+allenact_plugins[robothor,babyai,minigrid]>=0.4.0
+torch>=1.8.0
+black
+networkx
+statsmodels
+scipy
+localreg
+--editable=git+https://github.com/Lucaweihs/babyai.git@0b450eeb3a2dc7116c67900d51391986bdbb84cd#egg=babyai
+canonicaljson
+pickle5
+stable-baselines3
