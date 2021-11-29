@@ -1,7 +1,7 @@
 # Bridging the Imitation Gap by Adaptive Insubordination
 
 This repository includes the code that can be used to reproduce the results of our
-paper [Bridging the Imitation Gap by Adaptive Insubordination](https://arxiv.org/abs/2007.12173).
+paper [Bridging the Imitation Gap by Adaptive Insubordination](https://openreview.net/forum?id=Wlx0DqiUTD_).
 
 Our experiments were primarily run using the [AllenAct learning framework](https://github.com/allenai/allenact),
 see [AllenAct.org](https://allenact.org/) for details and tutorials.
