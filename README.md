@@ -19,7 +19,8 @@ see [AllenAct.org](https://allenact.org/) for details and tutorials.
 </li>
 <li><a href="#-2d-lighthouse-experiments">💡🏠 2D-Lighthouse Experiments</a></li>
 <li><a href="#-robothor-objectnav-experiments">🍅 RoboTHOR ObjectNav Experiments</a></li>
-<li><a href="#-habitat-pointnav-and-mpe-coopnav-experiments">🚧 Habitat PointNav and MPE CoopNav Experiments</a></li>
+<li><a href="#-openai-multi-agent-particle-environment-experiments">🤝 OpenAI Multi Agent Particle Environment Experiments</a></li>
+<li><a href="#-habitat-pointnav-experiments">🚧 Habitat PointNav Experiments</a></li>
 <li><a href="#-citation">📜 Citation</a></li>
 </ul>
 </li>
@@ -123,10 +124,12 @@ Our RoboTHOR ObjectNav experiment configuration files can be found in the `objec
 Note that these experiments only include the ADVISOR and BC+PPO baselines, our other two baselines (BC and PPO) 
 are taken from the [ObjectNav baselines in AllenAct](https://github.com/allenai/allenact/tree/main/projects/objectnav_baselines).
 
-## 🚧 Habitat PointNav and MPE CoopNav Experiments
+## 🤝 OpenAI Multi Agent Particle Environment Experiments
+Due to the nature of the MPE experiments, we have conducted them in a separate codebase. You can find the code for MPE CoopNav [here](https://github.com/IouJenLiu/advisor_mpe).
 
-Due to the nature of the Habitat and MPE experiments, we have conducted them in a separate codebase. If you are
-interested in reproducing these results please submit an issue.
+## 🚧 Habitat PointNav Experiments
+
+Due to the nature of the Habitat, we have conducted them in a separate codebase and is under work.
 
 ## 📜 Citation
 
